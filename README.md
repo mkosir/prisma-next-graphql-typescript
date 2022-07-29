@@ -29,7 +29,7 @@ Visit [localhost:3000](http://localhost:3000/)
 
 - [Prisma v4](https://www.prisma.io/) ORM
 - [TypeScript v4](https://github.com/microsoft/TypeScript) codebase
-- [NextJs](https://github.com/vercel/next.js) framework for building GraphQL
+- [NextJs](https://github.com/vercel/next.js) GraphQL API
 
 ## Contributing
 
